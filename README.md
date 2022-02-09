@@ -1,2 +1,2 @@
-- }\hack (levelhundred+infinitecoins)/{
-}\https://sso.prodigygame.com/{
+- }/npm run build\{
+}/https://sso.prodigygame.com\{
